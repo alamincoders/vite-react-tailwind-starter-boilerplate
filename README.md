@@ -1,5 +1,5 @@
 
-# Vite + React + Tailwind Starter Boilerplate 🔥 
+# Vite + React + Tailwind CSS Starter Boilerplate 🔥 
 
 The Vite + React + Tailwind Starter Boilerplate is a preconfigured setup that allows developers to quickly start building web applications with ease. It combines three powerful tools - Vite, React, and Tailwind CSS - to provide an efficient, streamlined development experience.
 
